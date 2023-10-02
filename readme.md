@@ -4,7 +4,7 @@ Welcome to the official website repository of RMC Cement Company. This website i
 
 ## About Us
 
-RMC Cement Company is a leading player in the cement manufacturing sector. With years of experience and a commitment to quality, we have established ourselves as a reliable and trusted cement supplier. Our state-of-the-art facilities and dedicated team ensure that we deliver top-notch products to our customers.
+RMC Cement Company is a leading player in the cement manufacturing sector. With years of experience and a commitment to quality, we have established ourselves as a reliable and trusted cement supplier. Our state-of-the-art facilities and dedicated team ensure that we deliver top-notch products to our customers.We offer quality based cement products
 
 ## Features
 

@@ -31,9 +31,10 @@ We welcome contributions from the community to enhance the website. If you find 
 5. **Push Changes:** Push your changes to your forked repository.
 6. **Create a Pull Request:** Open a pull request with details about your changes.
 
+This project is our internship project we are doing under the guidance of the company CEO and executive
+
 ## Contact Us
 
 If you have any questions or need further information, feel free to reach out to us at [contact@rmccementcompany.com](mailto:contact@rmccementcompany.com). We appreciate your interest in RMC Cement Company.
 
 Thank you for visiting our repository!
-
